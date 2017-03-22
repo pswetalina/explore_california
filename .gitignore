@@ -1,0 +1,6 @@
+#comment
+template.txt
+.DS_Store
+*.zip
+*.gz
+log/*.log
